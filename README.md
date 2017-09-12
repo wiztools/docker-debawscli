@@ -1,6 +1,6 @@
 # About
 
-This is a debian-based docker image that has Python 3.4.x installed with [AWS cli](https://aws.amazon.com/cli/).
+This is a debian-based docker image that has [AWS cli](https://aws.amazon.com/cli/) preinstalled and available in `PATH`.
 
 AWS cli is installed at location:
 
